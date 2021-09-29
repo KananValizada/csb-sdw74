@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://kananvalizada.github.io/csb-sdw74/static/css/main.0e026bdb.chunk.css",
+    "main.js": "https://kananvalizada.github.io/csb-sdw74/static/js/main.9562e4cd.chunk.js",
+    "main.js.map": "https://kananvalizada.github.io/csb-sdw74/static/js/main.9562e4cd.chunk.js.map",
+    "runtime-main.js": "https://kananvalizada.github.io/csb-sdw74/static/js/runtime-main.315d5242.js",
+    "runtime-main.js.map": "https://kananvalizada.github.io/csb-sdw74/static/js/runtime-main.315d5242.js.map",
+    "static/js/2.e99e0161.chunk.js": "https://kananvalizada.github.io/csb-sdw74/static/js/2.e99e0161.chunk.js",
+    "static/js/2.e99e0161.chunk.js.map": "https://kananvalizada.github.io/csb-sdw74/static/js/2.e99e0161.chunk.js.map",
+    "index.html": "https://kananvalizada.github.io/csb-sdw74/index.html",
+    "static/css/main.0e026bdb.chunk.css.map": "https://kananvalizada.github.io/csb-sdw74/static/css/main.0e026bdb.chunk.css.map",
+    "static/js/2.e99e0161.chunk.js.LICENSE.txt": "https://kananvalizada.github.io/csb-sdw74/static/js/2.e99e0161.chunk.js.LICENSE.txt",
+    "static/media/meals.97ba8c13.jpg": "https://kananvalizada.github.io/csb-sdw74/static/media/meals.97ba8c13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.315d5242.js",
+    "static/js/2.e99e0161.chunk.js",
+    "static/css/main.0e026bdb.chunk.css",
+    "static/js/main.9562e4cd.chunk.js"
+  ]
+}
